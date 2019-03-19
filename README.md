@@ -77,5 +77,5 @@ This script was developed for educational purposes only. Critical Start is not r
 * some type of statistics tracking or daily email? 
 
 ## Contact Support
-* https://www.facebook.com/sec.bugbounty
+* Facebook     : https://www.facebook.com/sec.bugbounty
 * Join Discord : https://discord.gg/aQBuUS
